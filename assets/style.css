@@ -59,6 +59,18 @@ ul {
     gap: 50px;
 }
 
+.about {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-subcontainer {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
 /*
 ========
 Individual elements
