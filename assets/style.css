@@ -48,8 +48,10 @@ Individual elements
 */
 
 #logo-container {
-    background-color: #fff;
-    width: 150px;
+    display: flex;
+    flex-shrink: 0;
+    background: linear-gradient(#fff, #B4CFB0);
+    width: 100px;
     height: auto;
     border-radius: 100%;
 }
@@ -64,7 +66,8 @@ Individual elements
 
 .logo {
     height: auto;
-    width: 150px;
+    width: 100px;
+    flex: 1;
 }
 
 .hero-image {
