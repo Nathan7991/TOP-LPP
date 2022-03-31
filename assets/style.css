@@ -20,6 +20,11 @@ Individual elements
 ========
 */
 
+.logo {
+    height: auto;
+    width: 150px;
+}
+
 .hero-image {
     max-width: 350px;
     height: auto;
