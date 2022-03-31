@@ -82,11 +82,11 @@ ul {
 
 .testimonial {
     display: flex;
-    flex-direction: column;
 }
 
 .testimonial-quote {
     display: flex;
+    flex-direction: column;
 }
 /*
 ========
@@ -154,4 +154,8 @@ li {
 
 .header-links:hover {
     text-decoration: underline;
+}
+
+.stan-lee {
+    align-self: flex-end;
 }
