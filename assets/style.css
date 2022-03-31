@@ -47,6 +47,10 @@ Individual elements
 ========
 */
 
+.shop-name {
+    margin: auto 0;
+}
+
 .permanent-marker {
     font-family: 'Permanent Marker', cursive, sans-serif;
 }
