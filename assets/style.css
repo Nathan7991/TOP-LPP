@@ -103,6 +103,20 @@ ul {
     background: linear-gradient(#E5E3C9, #fff);
 }
 
+.newsletter-container {
+    display: flex; 
+    width: 800px;
+    background-color: #94B49F;
+    justify-content: center;
+    align-content: center;
+}
+
+.newsletter-button {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
 /*
 ========
 Individual elements
