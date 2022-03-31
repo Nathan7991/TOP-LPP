@@ -34,6 +34,7 @@ body {
     justify-content: center;
     align-content: center;
     padding: 0 10px;
+    flex-wrap: wrap;
 }
 
 ul {
@@ -97,4 +98,8 @@ li {
     color: #fff;
     text-decoration: none;
     font-size: 20px;
+}
+
+.header-links:hover {
+    text-decoration: underline;
 }
