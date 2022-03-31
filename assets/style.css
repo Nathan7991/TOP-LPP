@@ -45,6 +45,10 @@ Individual elements
 ========
 */
 
+.permanent-marker {
+    font-family: 'Permanent Marker', cursive, sans-serif;
+}
+
 .logo {
     height: auto;
     width: 150px;
