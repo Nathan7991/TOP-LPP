@@ -26,6 +26,7 @@ body {
     align-items: center;
     gap: 50px;
     flex: 1;
+    flex-wrap: wrap;
 }
 
 .hero {
@@ -97,6 +98,7 @@ ul {
 }
 
 .newsletter {
+    height: 30vh;
     display: flex;
     justify-content: center;
     align-content: center;
