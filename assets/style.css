@@ -22,6 +22,7 @@ body {
 .header-left {
     flex: 1;
     display: flex;
+    color: #fff;
 }
 
 .header-right {
@@ -29,6 +30,13 @@ body {
     display: flex;
     justify-content: flex-end;
     align-content: center;
+    padding: 0 10px;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    gap: 50px;
 }
 
 /*
