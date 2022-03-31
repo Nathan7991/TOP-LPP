@@ -73,6 +73,12 @@ ul {
     justify-content: center;
     gap: 40px;
 }
+
+.about-image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 /*
 ========
 Individual elements
