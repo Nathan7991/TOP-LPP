@@ -95,6 +95,14 @@ ul {
     justify-content: center;
     height: 390px;
 }
+
+.newsletter {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background: linear-gradient(#E5E3C9, #fff);
+}
+
 /*
 ========
 Individual elements
