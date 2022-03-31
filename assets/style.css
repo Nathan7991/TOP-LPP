@@ -24,6 +24,13 @@ body {
     display: flex;
 }
 
+.header-right {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+}
+
 /*
 ========
 Individual elements
