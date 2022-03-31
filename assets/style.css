@@ -47,6 +47,13 @@ Individual elements
 ========
 */
 
+#logo-container {
+    background-color: #fff;
+    width: 150px;
+    height: auto;
+    border-radius: 100%;
+}
+
 .shop-name {
     margin: auto 0;
 }
