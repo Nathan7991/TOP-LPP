@@ -44,7 +44,7 @@ body {
 .hero {
     display: flex;
     flex-direction: row;
-    height: 45vh;
+    justify-content: center;
 }
 
 ul {
