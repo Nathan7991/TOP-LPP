@@ -65,6 +65,12 @@ Individual elements
 ========
 */
 
+.about-image img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
+
 #logo-container {
     display: flex;
     flex-shrink: 0;
