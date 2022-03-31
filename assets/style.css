@@ -133,6 +133,16 @@ ul {
     align-items: center;
 }
 
+.newsletter-button button {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: #B4CFB0;
+    border-radius: 5px;
+    padding: 10px 30px;
+    border-style: none;
+}
+
 .footer {
     display: flex;
     justify-content: center;
