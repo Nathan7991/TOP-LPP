@@ -19,6 +19,15 @@ body {
     background: linear-gradient(#94B49F, #B4CFB0);
 }
 
+.hero-left-and-right {
+    display: flex;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    flex: 1;
+}
+
 .hero {
     background: linear-gradient(#B4CFB0, #FFF);
     display: flex;
