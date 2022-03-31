@@ -29,9 +29,10 @@ Individual elements
 
 .hero-left button {
     color: #fff;
+    font-size: 16px;
     font-weight: 700;
     background-color: #B4CFB0;
     border-radius: 5px;
-    padding: 5px 20px;
+    padding: 10px 30px;
     border-style: none;
 }
