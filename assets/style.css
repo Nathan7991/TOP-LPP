@@ -26,3 +26,11 @@ Individual elements
     border-radius: 10px;
     box-shadow: 3px 3px 4px 2px rgba(0,0,0,0.4);
 }
+
+.hero-left button {
+    color: #fff;
+    font-weight: 700;
+    background-color: #B4CFB0;
+    border-radius: 5px;
+    padding: 5px 20px;
+}
