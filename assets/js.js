@@ -1,0 +1,1 @@
+const signUp = document.querySelector('#signUp');
